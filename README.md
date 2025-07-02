@@ -12,9 +12,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git&logoColor=f05033)
 ![Github](https://img.shields.io/badge/-Github-333333?style=flat&logo=Github&logoColor=000000)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker&logoColor=2496ed)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQl&logoColor=2496ed)
+
+
